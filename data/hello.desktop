@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Hello Again
+Comment=Application test with Vala and Gtk
+Exec=hello-again
+Terminal=false
+Icon=application-default-icon
+Type=Application
